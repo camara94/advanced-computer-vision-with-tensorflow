@@ -25,3 +25,14 @@ Identifying where is object in image is calling **Object Localisation**
 
 ## Object Detection
 Combined Object detection and multi-label classification is calling **Object detection**
+
+## Object Detection
+
+* For each object
+  * confidence score
+  * bounding boxes
+* Popular algorithms
+  * R-CNN
+  * Faster-RCNN
+  * YOLO
+  * SSD
