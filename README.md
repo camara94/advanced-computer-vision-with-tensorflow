@@ -10,3 +10,5 @@ Computer vision advenced tensorflow program
 ## Recap
  * Multi-class classification
   ![image](images/1.png)
+ * Mult-label classification
+  ![image](images/2.png)
