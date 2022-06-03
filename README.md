@@ -12,3 +12,5 @@ Computer vision advenced tensorflow program
   ![image](images/1.png)
  * Mult-label classification
   ![image](images/2.png)
+
+## Binary vs. Multi class classification
