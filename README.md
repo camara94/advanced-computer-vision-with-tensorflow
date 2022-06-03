@@ -51,3 +51,14 @@ There are two types of segmentation:
 
 ## Semantic Segmentation
 ![image](images/8.png)
+
+## Instance Segmentation
+
+![image](images/9.png)
+
+## Useful Link
+
+1. [https://www.coursera.org/professional-certificates/tensorflow-in-practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+2. [U-Net](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
+3. [DeepLab](http://liangchiehchen.com/projects/DeepLab.html)
+4. [Mask R-CNN](https://arxiv.org/abs/1703.06870)
