@@ -22,3 +22,6 @@ Computer vision advenced tensorflow program
 Identifying where is object in image is calling **Object Localisation**
 
 ![image](images/5.png)
+
+## Object Detection
+Combined Object detection and multi-label classification is calling **Object detection**
