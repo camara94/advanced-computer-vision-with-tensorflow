@@ -16,3 +16,9 @@ Computer vision advenced tensorflow program
 ## Binary vs. Multi class classification
 
 ![image](images/4.png)
+
+## Object Localisation
+
+Identifying where is object in image is calling **Object Localisation**
+
+![image](images/5.png)
