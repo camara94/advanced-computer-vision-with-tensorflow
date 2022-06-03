@@ -6,3 +6,5 @@ Computer vision advenced tensorflow program
 * Multi-class Classification
   * Binary Classification (Subset of problem)
 * Multi-label Classification
+
+## Recap
