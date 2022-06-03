@@ -50,4 +50,4 @@ There are two types of segmentation:
 ![image](images/7.png)
 
 ## Semantic Segmentation
-
+![image](images/8.png)
