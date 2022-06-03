@@ -14,3 +14,5 @@ Computer vision advenced tensorflow program
   ![image](images/2.png)
 
 ## Binary vs. Multi class classification
+
+![image](images/3.png)
