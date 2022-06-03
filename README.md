@@ -8,3 +8,5 @@ Computer vision advenced tensorflow program
 * Multi-label Classification
 
 ## Recap
+ * Multi-class classification
+  ![image](images/1.png)
