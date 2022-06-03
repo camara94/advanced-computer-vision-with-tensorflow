@@ -40,3 +40,7 @@ Combined Object detection and multi-label classification is calling **Object det
 ## Image segmentation
 
 In digital image processing and computer vision, [image segmentation](https://en.wikipedia.org/wiki/Image_segmentation) is the process of partitioning a digital image into multiple image segments, also known as image regions or image objects (sets of pixels).
+
+There are two types of segmentation: 
+* Semantic Segmentation 
+* Instance Segmentations
