@@ -74,3 +74,5 @@ There are two types of segmentation:
 ![image](images/12.png)
 
 ## Freeze the weights
+
+![image](images/13.png)
