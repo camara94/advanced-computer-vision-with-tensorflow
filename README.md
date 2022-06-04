@@ -70,3 +70,5 @@ There are two types of segmentation:
 ## What is Transfer Learning ?
 
 ![image](images/11.png)
+
+![image](images/12.png)
