@@ -66,3 +66,5 @@ There are two types of segmentation:
 ## Convolutional Neural Networks Architecture
 
 ![image](images/10.png)
+
+## What is Transfer Learning ?
