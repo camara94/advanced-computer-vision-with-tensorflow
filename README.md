@@ -78,3 +78,5 @@ There are two types of segmentation:
 ![image](images/13.png)
 
 ## Train with learned values as default
+
+![image](images/14.png)
