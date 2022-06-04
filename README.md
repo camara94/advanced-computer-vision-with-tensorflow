@@ -68,3 +68,5 @@ There are two types of segmentation:
 ![image](images/10.png)
 
 ## What is Transfer Learning ?
+
+![image](images/11.png)
