@@ -76,3 +76,5 @@ There are two types of segmentation:
 ## Freeze the weights
 
 ![image](images/13.png)
+
+## Train with learned values as default
