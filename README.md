@@ -62,3 +62,5 @@ There are two types of segmentation:
 2. [U-Net](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 3. [DeepLab](http://liangchiehchen.com/projects/DeepLab.html)
 4. [Mask R-CNN](https://arxiv.org/abs/1703.06870)
+
+## Convolutional Neural Networks Architecture
