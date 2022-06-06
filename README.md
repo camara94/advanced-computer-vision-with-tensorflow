@@ -92,3 +92,7 @@ There are two types of segmentation:
 ## Network Architecture
 
 ![image](images/17.png)
+
+## Define Feature Extraction
+
+![image](images/18.png)
