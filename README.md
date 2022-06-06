@@ -96,3 +96,7 @@ There are two types of segmentation:
 ## Define Feature Extraction
 
 ![image](images/18.png)
+
+## Define Classifier
+
+![image](images/19.png)
