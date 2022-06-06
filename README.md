@@ -84,3 +84,7 @@ There are two types of segmentation:
 ## dataset
 
 ![image](images/15.png)
+
+## ResNet 50
+
+![image](images/16.png)
