@@ -106,3 +106,5 @@ There are two types of segmentation:
 ![image](images/20.png)
 
 ![image](images/21.png)
+
+![image](images/22.png)
