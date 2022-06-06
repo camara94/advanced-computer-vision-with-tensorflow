@@ -89,3 +89,6 @@ There are two types of segmentation:
 
 ![image](images/16.png)
 
+## Network Architecture
+
+![image](images/17.png)
