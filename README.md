@@ -104,3 +104,5 @@ There are two types of segmentation:
 ## Define Input and Output
 
 ![image](images/20.png)
+
+![image](images/21.png)
