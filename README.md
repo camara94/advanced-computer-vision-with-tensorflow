@@ -100,3 +100,7 @@ There are two types of segmentation:
 ## Define Classifier
 
 ![image](images/19.png)
+
+## Define Input and Output
+
+![image](images/20.png)
