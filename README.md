@@ -88,3 +88,4 @@ There are two types of segmentation:
 ## ResNet 50
 
 ![image](images/16.png)
+
