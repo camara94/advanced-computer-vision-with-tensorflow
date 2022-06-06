@@ -80,3 +80,7 @@ There are two types of segmentation:
 ## Train with learned values as default
 
 ![image](images/14.png)
+
+## dataset
+
+![image](images/15.png)
